@@ -1,1 +1,1 @@
-# neurel_net_practice
+# neural_net_practice
